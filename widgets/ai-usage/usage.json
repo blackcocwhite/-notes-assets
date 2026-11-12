@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12T09:29:21+08:00",
+  "updated_at": "2026-11-12T09:31:31+08:00",
   "services": [
     {
       "id": "muse",
@@ -17,6 +17,7 @@
       "remaining_pct": 49,
       "reset_at": "2026-11-14T00:14:09+08:00",
       "window": "每周",
+      "reset_credits": 2,
       "status": "ok"
     },
     {
