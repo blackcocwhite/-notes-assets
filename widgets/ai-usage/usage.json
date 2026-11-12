@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12T20:19:15+08:00",
+  "updated_at": "2026-11-12T20:49:16+08:00",
   "services": [
     {
       "id": "muse",
@@ -23,8 +23,8 @@
     {
       "id": "grok",
       "name": "Grok",
-      "used_pct": 3,
-      "remaining_pct": 97,
+      "used_pct": 4,
+      "remaining_pct": 96,
       "reset_at": "2026-11-17T12:07:42+08:00",
       "window": "每周",
       "status": "ok"
