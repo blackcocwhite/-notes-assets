@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12T08:56:06+08:00",
+  "updated_at": "2026-11-12T09:07:58+08:00",
   "services": [
     {
       "id": "muse",
@@ -16,7 +16,7 @@
       "used_pct": null,
       "remaining_pct": null,
       "reset_at": null,
-      "window": "5小时",
+      "window": null,
       "status": "pending_auth"
     },
     {
