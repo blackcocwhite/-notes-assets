@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-13T19:49:16+08:00",
+  "updated_at": "2026-11-13T20:19:16+08:00",
   "services": [
     {
       "id": "muse",
       "name": "Muse",
-      "used_pct": 24,
-      "remaining_pct": 76,
+      "used_pct": 26,
+      "remaining_pct": 74,
       "reset_at": "2026-11-19T01:17:00+08:00",
       "window": "每周",
       "status": "ok"
@@ -23,8 +23,8 @@
     {
       "id": "grok",
       "name": "Grok",
-      "used_pct": 16,
-      "remaining_pct": 84,
+      "used_pct": 17,
+      "remaining_pct": 83,
       "reset_at": "2026-11-17T12:07:42+08:00",
       "window": "每周",
       "status": "ok"
