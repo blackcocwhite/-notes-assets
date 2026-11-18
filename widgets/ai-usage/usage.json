@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T21:49:21+08:00",
+  "updated_at": "2026-11-18T22:19:18+08:00",
   "services": [
     {
       "id": "muse",
@@ -13,8 +13,8 @@
     {
       "id": "codex",
       "name": "Codex",
-      "used_pct": 91,
-      "remaining_pct": 9,
+      "used_pct": 93,
+      "remaining_pct": 7,
       "reset_at": "2026-11-21T03:30:08+08:00",
       "window": "每周",
       "reset_credits": 3,
@@ -23,8 +23,8 @@
     {
       "id": "grok",
       "name": "Grok",
-      "used_pct": 12,
-      "remaining_pct": 88,
+      "used_pct": 13,
+      "remaining_pct": 87,
       "reset_at": "2026-11-24T12:07:42+08:00",
       "window": "每周",
       "status": "ok"
