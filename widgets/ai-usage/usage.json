@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T09:19:16+08:00",
+  "updated_at": "2026-11-22T09:21:58+08:00",
   "services": [
     {
       "id": "muse",
@@ -13,12 +13,12 @@
     {
       "id": "codex",
       "name": "Codex",
-      "used_pct": null,
-      "remaining_pct": null,
-      "reset_at": null,
-      "window": null,
-      "reset_credits": null,
-      "status": "error"
+      "used_pct": 25,
+      "remaining_pct": 75,
+      "reset_at": "2026-11-28T09:25:55+08:00",
+      "window": "每周",
+      "reset_credits": 3,
+      "status": "ok"
     },
     {
       "id": "grok",
