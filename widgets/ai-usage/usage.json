@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-23T00:49:17+08:00",
+  "updated_at": "2026-11-23T01:19:19+08:00",
   "services": [
     {
       "id": "muse",
       "name": "Muse",
-      "used_pct": 24,
-      "remaining_pct": 76,
+      "used_pct": 25,
+      "remaining_pct": 75,
       "reset_at": "2026-11-26T01:17:00+08:00",
       "window": "每周",
       "status": "ok"
