@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-28T15:19:21+08:00",
+  "updated_at": "2026-11-28T15:49:18+08:00",
   "services": [
     {
       "id": "muse",
@@ -13,8 +13,8 @@
     {
       "id": "codex",
       "name": "Codex",
-      "used_pct": 7,
-      "remaining_pct": 93,
+      "used_pct": 12,
+      "remaining_pct": 88,
       "reset_at": "2026-12-05T14:33:05+08:00",
       "window": "每周",
       "reset_credits": 4,
