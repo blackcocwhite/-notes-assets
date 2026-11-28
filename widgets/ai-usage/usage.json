@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-28T12:19:17+08:00",
+  "updated_at": "2026-11-28T12:49:21+08:00",
   "services": [
     {
       "id": "muse",
       "name": "Muse",
-      "used_pct": 31,
-      "remaining_pct": 69,
+      "used_pct": 32,
+      "remaining_pct": 68,
       "reset_at": "2026-12-03T01:19:00+08:00",
       "window": "每周",
       "status": "ok"
@@ -15,7 +15,7 @@
       "name": "Codex",
       "used_pct": 0,
       "remaining_pct": 100,
-      "reset_at": "2026-12-05T12:19:16+08:00",
+      "reset_at": "2026-12-05T12:49:20+08:00",
       "window": "每周",
       "reset_credits": 4,
       "status": "ok"
